@@ -12,7 +12,8 @@
 ![스크린샷 2024-08-01 095335](https://github.com/user-attachments/assets/511fbf9a-e497-4525-acff-57e41c0d09dd)
 ##
 ### 5. 게시글 작성 : Read
-![스크린샷 2024-08-02 113122](https://github.com/user-attachments/assets/25d39f28-204c-49e0-85f8-2b833449a4ac)![스크린샷 2024-08-02 113137](https://github.com/user-attachments/assets/f41aa3ca-0482-4a13-be2f-77d6816d92dd)
+![스크린샷 2024-08-02 112550](https://github.com/user-attachments/assets/ee8adc22-de0b-4247-b9d4-d421345c2d4c)
+![스크린샷 2024-08-02 113137](https://github.com/user-attachments/assets/f41aa3ca-0482-4a13-be2f-77d6816d92dd)
 
 
 
