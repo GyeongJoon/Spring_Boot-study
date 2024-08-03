@@ -1,4 +1,4 @@
-![스크린샷 2024-08-03 144552](https://github.com/user-attachments/assets/845e61d6-c243-45b0-b0ef-9021207530b4)# Spring_Boot Study
+# Spring_Boot Study
 ### 1. 스프링 부트 시작
 ![image](https://github.com/user-attachments/assets/89ca0771-927d-4d51-a709-f90e4e75acc8)
 ##
