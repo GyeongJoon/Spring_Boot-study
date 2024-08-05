@@ -31,7 +31,6 @@ public class MemberController {
         log.info(saved.toString());
 //        System.out.println(saved.toString());
         return "redirect:/members/" + saved.getId();
-
     }
 
     @GetMapping("/members/{id}")
