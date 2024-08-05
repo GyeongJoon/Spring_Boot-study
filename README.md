@@ -22,7 +22,7 @@
 ##
 ### 7. 게시글 수정하기 : Update
 ![스크린샷 2024-08-06 080709](https://github.com/user-attachments/assets/65cf0932-ff94-4eb8-b6b5-e6db073049e2)
-![스크린샷 2024-08-06 081033](https://github.com/user-attachments/assets/ed03ba1f-cb41-4d28-99b8-4f01f065d98f)
+![image](https://github.com/user-attachments/assets/0682c3b8-d152-49e1-90a7-1ec4af3d112f)
 ![스크린샷 2024-08-06 081657](https://github.com/user-attachments/assets/7669c0a7-41f2-49b5-8afc-657b03df87a5)
 
 
