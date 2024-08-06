@@ -24,6 +24,11 @@
 ![스크린샷 2024-08-06 080709](https://github.com/user-attachments/assets/65cf0932-ff94-4eb8-b6b5-e6db073049e2)
 ![image](https://github.com/user-attachments/assets/0682c3b8-d152-49e1-90a7-1ec4af3d112f)
 ![스크린샷 2024-08-06 081657](https://github.com/user-attachments/assets/7669c0a7-41f2-49b5-8afc-657b03df87a5)
+##
+### 8. 게시글 삭제하기 : Delete
+![스크린샷 2024-08-06 093032](https://github.com/user-attachments/assets/ef7c65e7-75b7-4a6a-8c7d-66ed8e113c24)
+![스크린샷 2024-08-06 093039](https://github.com/user-attachments/assets/cfd4108e-038d-4b82-801e-1d1205d604e0)
+
 
 
 
