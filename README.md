@@ -30,9 +30,10 @@
 ![스크린샷 2024-08-06 093039](https://github.com/user-attachments/assets/cfd4108e-038d-4b82-801e-1d1205d604e0)
 ##
 ### 9. CRUD와 SQL 쿼리 종합
-![스크린샷 2024-08-06 135534](https://github.com/user-attachments/assets/bdc0fbb7-2f6d-482f-b3d3-d3d473786ca4)
-![스크린샷 2024-08-06 135858](https://github.com/user-attachments/assets/848c376d-faaa-48e1-900c-5297c3670d3f)
-![스크린샷 2024-08-06 135916](https://github.com/user-attachments/assets/d9bb806b-22d4-469b-9216-66b8ed3aa3cb)
+![스크린샷 2024-08-06 140114](https://github.com/user-attachments/assets/745f3427-6b8a-48b1-80a4-d0616ff51b48)
+![스크린샷 2024-08-06 140107](https://github.com/user-attachments/assets/16f16121-37c3-47ce-9541-28a57be3a060)
+![스크린샷 2024-08-06 135916](https://github.com/user-attachments/assets/464d88d8-46b7-479e-987c-3581440a48db)
+
 
 
 
