@@ -32,7 +32,8 @@
 ### 9. CRUD와 SQL 쿼리 종합
 ![스크린샷 2024-08-06 140114](https://github.com/user-attachments/assets/745f3427-6b8a-48b1-80a4-d0616ff51b48)
 ![스크린샷 2024-08-06 140107](https://github.com/user-attachments/assets/16f16121-37c3-47ce-9541-28a57be3a060)
-![스크린샷 2024-08-06 135916](https://github.com/user-attachments/assets/464d88d8-46b7-479e-987c-3581440a48db)
+![스크린샷 2024-08-06 140054](https://github.com/user-attachments/assets/57b108ad-5cfc-4ad6-8276-0a11f6fac515)
+
 
 
 
