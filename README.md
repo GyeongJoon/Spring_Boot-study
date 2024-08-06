@@ -19,6 +19,13 @@
 ![스크린샷 2024-08-03 144552](https://github.com/user-attachments/assets/f9ec844a-b3e4-4e14-b862-b1ce5de292fc)
 ![스크린샷 2024-08-03 144601](https://github.com/user-attachments/assets/b940fa78-ede4-4b28-a22f-f9d55bb9d033)
 ![스크린샷 2024-08-03 144634](https://github.com/user-attachments/assets/4cbc5690-ea82-4af4-9d2e-1092c9a18a1f)
+##
+### 7. 게시글 수정하기 : Update
+![스크린샷 2024-08-06 080709](https://github.com/user-attachments/assets/65cf0932-ff94-4eb8-b6b5-e6db073049e2)
+![image](https://github.com/user-attachments/assets/0682c3b8-d152-49e1-90a7-1ec4af3d112f)
+![스크린샷 2024-08-06 081657](https://github.com/user-attachments/assets/7669c0a7-41f2-49b5-8afc-657b03df87a5)
+
+
 
 
 
