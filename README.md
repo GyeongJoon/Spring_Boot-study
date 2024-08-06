@@ -28,6 +28,15 @@
 ### 8. 게시글 삭제하기 : Delete
 ![스크린샷 2024-08-06 093032](https://github.com/user-attachments/assets/ef7c65e7-75b7-4a6a-8c7d-66ed8e113c24)
 ![스크린샷 2024-08-06 093039](https://github.com/user-attachments/assets/cfd4108e-038d-4b82-801e-1d1205d604e0)
+##
+### 9. CRUD와 SQL 쿼리 종합
+![스크린샷 2024-08-06 135534](https://github.com/user-attachments/assets/bdc0fbb7-2f6d-482f-b3d3-d3d473786ca4)
+![스크린샷 2024-08-06 135858](https://github.com/user-attachments/assets/848c376d-faaa-48e1-900c-5297c3670d3f)
+![스크린샷 2024-08-06 135916](https://github.com/user-attachments/assets/d9bb806b-22d4-469b-9216-66b8ed3aa3cb)
+
+
+
+
 
 
 
