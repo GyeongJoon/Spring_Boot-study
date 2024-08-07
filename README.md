@@ -33,6 +33,13 @@
 ![스크린샷 2024-08-06 140114](https://github.com/user-attachments/assets/745f3427-6b8a-48b1-80a4-d0616ff51b48)
 ![스크린샷 2024-08-06 140107](https://github.com/user-attachments/assets/16f16121-37c3-47ce-9541-28a57be3a060)
 ![스크린샷 2024-08-06 140054](https://github.com/user-attachments/assets/57b108ad-5cfc-4ad6-8276-0a11f6fac515)
+##
+### 10. REST API와 JSON
+![스크린샷 2024-08-07 084311](https://github.com/user-attachments/assets/d4c5c4bb-4924-4ef1-be72-3d880f0f6b15)
+![스크린샷 2024-08-07 084405](https://github.com/user-attachments/assets/3d4ddf0b-d7e6-4e17-891e-b8a0a15dd12c)
+![스크린샷 2024-08-07 090340](https://github.com/user-attachments/assets/ec173433-d13b-448c-b77b-0c76823ceb7a)
+![스크린샷 2024-08-07 090321](https://github.com/user-attachments/assets/30221cd0-bd21-4138-a325-b9409e5c74a7)
+
 
 
 
