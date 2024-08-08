@@ -39,6 +39,12 @@
 ![스크린샷 2024-08-07 084405](https://github.com/user-attachments/assets/3d4ddf0b-d7e6-4e17-891e-b8a0a15dd12c)
 ![스크린샷 2024-08-07 090340](https://github.com/user-attachments/assets/ec173433-d13b-448c-b77b-0c76823ceb7a)
 ![스크린샷 2024-08-07 090321](https://github.com/user-attachments/assets/30221cd0-bd21-4138-a325-b9409e5c74a7)
+##
+### 11. HTTP와 REST 컨트롤러
+![스크린샷 2024-08-07 114606](https://github.com/user-attachments/assets/446c8bf5-f2bd-481a-90ca-55a181de7462)
+##
+### 12. 서비스와 트랜잭션
+![스크린샷 2024-08-08 093054](https://github.com/user-attachments/assets/0b7b71dd-b230-4792-b46f-ddd28e1e5f47)
 
 
 
