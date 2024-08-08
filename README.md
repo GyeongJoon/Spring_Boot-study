@@ -42,6 +42,10 @@
 ##
 ### 11. HTTP와 REST 컨트롤러
 ![스크린샷 2024-08-07 114606](https://github.com/user-attachments/assets/446c8bf5-f2bd-481a-90ca-55a181de7462)
+##
+### 12. 서비스와 트랜잭션
+![스크린샷 2024-08-08 093054](https://github.com/user-attachments/assets/0b7b71dd-b230-4792-b46f-ddd28e1e5f47)
+
 
 
 
