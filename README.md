@@ -52,6 +52,13 @@
 ![스크린샷 2024-08-10 143513](https://github.com/user-attachments/assets/52ea17e0-908d-4015-8ccf-fb5e2ae0c04b)
 ![스크린샷 2024-08-10 143521](https://github.com/user-attachments/assets/c0f102cc-0f8d-46d0-9572-c74592204c95)
 ![스크린샷 2024-08-10 143531](https://github.com/user-attachments/assets/8214ba21-c33c-44f7-8353-df4282fc4046)
+##
+### 13. 댓글 엔티티와 리파지터리 만들기
+![스크린샷 2024-08-10 194957](https://github.com/user-attachments/assets/0fe83125-c927-4070-b199-e45cf7059299)
+![스크린샷 2024-08-10 195009](https://github.com/user-attachments/assets/2eb54ffa-ac4d-43ed-9699-a85b3113b8bc)
+![스크린샷 2024-08-10 195022](https://github.com/user-attachments/assets/821e3c10-f5ea-4875-9747-5eeb516bcdab)
+![스크린샷 2024-08-10 195029](https://github.com/user-attachments/assets/2f998e9e-413a-4ab3-bc00-500686715b9e)
+
 
 
 
