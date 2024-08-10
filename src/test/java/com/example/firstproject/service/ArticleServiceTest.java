@@ -79,4 +79,72 @@ class ArticleServiceTest {
         // 3. 비교 및 검증
         assertEquals(expected, article);
     }
+
+    @Test
+    @Transactional
+    void update_성공_존재하는_id와_title_content가_있는_dto_입력() {
+        // 1. 예상 데이터 작성하기
+        Long id = 1L;
+        String title = "샴페인";
+        String content = "돔페리뇽";
+        ArticleForm dto = new ArticleForm(id, title, content);
+        Article expected = new Article(id, title, content);
+        // 2. 실제 데이터 획득하기
+        Article article = articleService.update(id, dto);
+        // 3. 예상 데이터와 실제 데이터 비교해 검증하기
+        assertEquals(expected.toString(), article.toString());
+    }
+
+    @Test
+    @Transactional
+    void update_성공_존재하는_id와_title만_있는_dto_입력() {
+        // 1. 예상 데이터 작성하기
+        Long id = 1L;
+        String title = "샴페인";
+        ArticleForm dto = new ArticleForm(id, title, null);
+        Article expected = new Article(id, title, null);
+        // 2. 실제 데이터 획득하기
+        Article article = articleService.update(id, dto);
+        // 3. 예상 데이터와 실제 데이터 비교해 검증하기
+        assertEquals(expected.toString(), article.toString());
+    }
+
+    @Test
+    @Transactional
+    void update_실패_존재하지_않는_id의_dto_입력() {
+        // 1. 예상 데이터 작성하기
+        Long id = -1L;
+        String title = "샴페인";
+        String content = "돔페리뇽";
+        ArticleForm dto = new ArticleForm(id, title, content);
+        Article expected = null;
+        // 2. 실제 데이터 획득하기
+        Article article = articleService.update(id, dto);
+        // 3. 예상 데이터와 실제 데이터 비교해 검증하기
+        assertEquals(expected, article);
+    }
+
+    @Test
+    @Transactional
+    void delete_성공_존재하는_id_입력() {
+        // 1. 예상 데이터 작성하기
+        Long id = 1L;
+        Article expected = new Article(id, "소주", "새로");
+        // 2. 실제 데이터 획득하기
+        Article article = articleService.delete(id);
+        // 3. 예상 데이터와 실제 데이터 비교해 검증하기
+        assertEquals(expected.toString(), article.toString());
+    }
+
+    @Test
+    @Transactional
+    void delete_실패_존재하지_않는_id_입력() {
+        // 1. 예상 데이터 작성하기
+        Long id = -1L;
+        Article expected = null;
+        // 2. 실제 데이터 획득하기
+        Article article = articleService.delete(id);
+        // 3. 예상 데이터와 실제 데이터 비교해 검증하기
+        assertEquals(expected, article);
+    }
 }
