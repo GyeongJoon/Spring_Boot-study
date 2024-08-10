@@ -45,6 +45,11 @@
 ##
 ### 12. 서비스와 트랜잭션
 ![스크린샷 2024-08-08 093054](https://github.com/user-attachments/assets/0b7b71dd-b230-4792-b46f-ddd28e1e5f47)
+##
+### 12. 테스트 코드 작성하기
+![스크린샷 2024-08-10 143457](https://github.com/user-attachments/assets/d999e301-c86d-4d6a-bcef-aa8a27ee3689)![스크린샷 2024-08-10 143505](https://github.com/user-attachments/assets/15b06455-6dcd-4aec-a0bd-8d6e05b67c57)
+
+
 
 
 
