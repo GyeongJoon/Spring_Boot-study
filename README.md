@@ -58,6 +58,12 @@
 ![스크린샷 2024-08-10 195009](https://github.com/user-attachments/assets/2eb54ffa-ac4d-43ed-9699-a85b3113b8bc)
 ![스크린샷 2024-08-10 195022](https://github.com/user-attachments/assets/821e3c10-f5ea-4875-9747-5eeb516bcdab)
 ![스크린샷 2024-08-10 195029](https://github.com/user-attachments/assets/2f998e9e-413a-4ab3-bc00-500686715b9e)
+##
+### 14. 댓글 컨트롤러와 서비스 만들기
+![image](https://github.com/user-attachments/assets/7b6283a5-2209-474d-b03e-7ec960cce5b5)
+![image](https://github.com/user-attachments/assets/9b2d66e6-8cd7-4293-8ca1-c88e532b8298)
+
+
 
 
 
