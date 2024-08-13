@@ -25,10 +25,6 @@ INSERT INTO pizza(name, price) VALUES('포테이토 피자', 7900);
 INSERT INTO pizza(name, price) VALUES('치즈 피자', 23900);
 
 
-
-
-
-
 INSERT INTO member(id, email, password) VALUES(1, 'jjangjoon328@naver.com', '123');
 INSERT INTO member(id, email, password) VALUES(2, 'jjanggu@naver.com', '456');
 INSERT INTO member(id, email, password) VALUES(3, 'jjangah@naver.com', '789');
