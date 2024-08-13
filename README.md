@@ -46,25 +46,32 @@
 ### 12. 서비스와 트랜잭션
 ![스크린샷 2024-08-08 093054](https://github.com/user-attachments/assets/0b7b71dd-b230-4792-b46f-ddd28e1e5f47)
 ##
-### 12. 테스트 코드 작성하기
+### 13. 테스트 코드 작성하기
 ![스크린샷 2024-08-10 143457](https://github.com/user-attachments/assets/d999e301-c86d-4d6a-bcef-aa8a27ee3689)
 ![스크린샷 2024-08-10 143505](https://github.com/user-attachments/assets/15b06455-6dcd-4aec-a0bd-8d6e05b67c57)
 ![스크린샷 2024-08-10 143513](https://github.com/user-attachments/assets/52ea17e0-908d-4015-8ccf-fb5e2ae0c04b)
 ![스크린샷 2024-08-10 143521](https://github.com/user-attachments/assets/c0f102cc-0f8d-46d0-9572-c74592204c95)
 ![스크린샷 2024-08-10 143531](https://github.com/user-attachments/assets/8214ba21-c33c-44f7-8353-df4282fc4046)
 ##
-### 13. 댓글 엔티티와 리파지터리 만들기
+### 14. 댓글 엔티티와 리파지터리 만들기
 ![스크린샷 2024-08-10 194957](https://github.com/user-attachments/assets/0fe83125-c927-4070-b199-e45cf7059299)
 ![스크린샷 2024-08-10 195009](https://github.com/user-attachments/assets/2eb54ffa-ac4d-43ed-9699-a85b3113b8bc)
 ![스크린샷 2024-08-10 195022](https://github.com/user-attachments/assets/821e3c10-f5ea-4875-9747-5eeb516bcdab)
 ![스크린샷 2024-08-10 195029](https://github.com/user-attachments/assets/2f998e9e-413a-4ab3-bc00-500686715b9e)
 ##
-### 14. 댓글 컨트롤러와 서비스 만들기
+### 15. 댓글 컨트롤러와 서비스 만들기
 ![image](https://github.com/user-attachments/assets/7b6283a5-2209-474d-b03e-7ec960cce5b5)
 ![image](https://github.com/user-attachments/assets/9b2d66e6-8cd7-4293-8ca1-c88e532b8298)
 ##
-### 15. 웹 페이지에서 댓글 목록 보기
+### 16. 웹 페이지에서 댓글 목록 보기
 ![image](https://github.com/user-attachments/assets/d7cfeceb-0823-4a2b-a6be-f0934ce7d408)
+##
+### 17. 웹 페이지에서 댓글 등록 하기
+![스크린샷 2024-08-13 103509](https://github.com/user-attachments/assets/438ba862-0b6b-46ac-bd5f-7ba93db553f7)
+![스크린샷 2024-08-13 103519](https://github.com/user-attachments/assets/6c3d08c0-abe5-4dfb-afa2-5343282f9c12)
+
+
+
 
 
 
