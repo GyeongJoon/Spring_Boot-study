@@ -15,7 +15,7 @@ public class CommentApiController {
     private CommentService commentService;
     // 1. 댓글 조회
     @GetMapping("/api/articles/{articleId}/comments") // 댓글 조회 요청 접수
-    public ResponseEntity<List<CommentDto>> comments(@PathVariable Long articleId) { // commentes() 메서드 생성
+    public ResponseEntity<List<CommentDto>> comments(@PathVariable Long articleId) { // comments() 메서드 생성
         // 서비스에 위임
         List<CommentDto> dtos = commentService.comments(articleId);
         // 결과 응답
@@ -41,7 +41,7 @@ public class CommentApiController {
     }
     // 4. 댓글 삭제
     @DeleteMapping("/api/comments/{id}")
-    public ResponseEntity<CommentDto> deletd(@PathVariable Long id) {
+    public ResponseEntity<CommentDto> delete(@PathVariable Long id) {
         // 서비스에 위임
         CommentDto deleteDto = commentService.delete(id);
         // 결과 응답
