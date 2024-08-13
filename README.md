@@ -62,6 +62,10 @@
 ### 14. 댓글 컨트롤러와 서비스 만들기
 ![image](https://github.com/user-attachments/assets/7b6283a5-2209-474d-b03e-7ec960cce5b5)
 ![image](https://github.com/user-attachments/assets/9b2d66e6-8cd7-4293-8ca1-c88e532b8298)
+##
+### 15. 웹 페이지에서 댓글 목록 보기
+![image](https://github.com/user-attachments/assets/d7cfeceb-0823-4a2b-a6be-f0934ce7d408)
+
 
 
 
