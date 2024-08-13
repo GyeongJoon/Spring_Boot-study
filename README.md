@@ -65,6 +65,13 @@
 ##
 ### 15. 웹 페이지에서 댓글 목록 보기
 ![image](https://github.com/user-attachments/assets/d7cfeceb-0823-4a2b-a6be-f0934ce7d408)
+##
+### 16. 웹 페이지에서 댓글 등록 하기
+![스크린샷 2024-08-13 103509](https://github.com/user-attachments/assets/438ba862-0b6b-46ac-bd5f-7ba93db553f7)
+![스크린샷 2024-08-13 103519](https://github.com/user-attachments/assets/6c3d08c0-abe5-4dfb-afa2-5343282f9c12)
+
+
+
 
 
 
