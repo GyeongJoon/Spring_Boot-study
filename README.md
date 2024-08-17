@@ -73,6 +73,9 @@
 ### 18. 웹 페이지에서 댓글 수정 하기
 ![스크린샷 2024-08-14 085407](https://github.com/user-attachments/assets/a7975f1d-f331-4ef0-a71e-ce5c7bb9b472)
 ![스크린샷 2024-08-14 085431](https://github.com/user-attachments/assets/8a8071a0-3dc0-48ae-a6d7-847300557294)
+##
+### 19. 웹 페이지에서 댓글 삭제 하기
+![스크린샷 2024-08-16 192939](https://github.com/user-attachments/assets/006f846e-e20c-4fe2-a638-1aae5de1a314)
 
 
 
